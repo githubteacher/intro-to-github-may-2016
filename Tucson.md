@@ -6,3 +6,6 @@ Some very basic things.
 Taco trucks
 ###What to do
 Apply Sunscreen
+
+###Distance to Austin
+893 miles :cowboy-hat:
