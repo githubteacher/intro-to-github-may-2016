@@ -14,3 +14,6 @@
 
 ### GitHub Workflow
 [Click here](https://guides.github.com/introduction/flow/) to see the resource used in class about the GitHub Workflow.
+
+### Sign Up for More Classes
+[GitHub Training Website](https://training.github.com/training/)
