@@ -1,3 +1,9 @@
 # Casino, Hv
 
-## First comment
+## Where to eat
+- Pizza
+- Burguers
+
+### What to do
+- Outdoor activities
+- Swimm
