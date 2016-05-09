@@ -1,5 +1,5 @@
 # SLC, UT
 
-## Where to buy drugs
+## Where to get baptized
 
-### Where to do them
+### Where marry ten women at once
