@@ -1,5 +1,5 @@
-Sarnia, Ontario
+# Sarnia, Ontario
 
-Where to eat
+### Where to eat
 
-What to do
+### Things to do
