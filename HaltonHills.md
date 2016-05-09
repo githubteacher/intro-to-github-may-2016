@@ -9,3 +9,5 @@
 - Skateboard at the Church
 - Visit the Scrapyard
 - Play Golf at the Country Club
+
+We are ready to end this thing!
