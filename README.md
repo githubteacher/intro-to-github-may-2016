@@ -11,3 +11,6 @@
 
 ### Mastering Markdown
 [Click here](https://guides.github.com/features/mastering-markdown/) to learn more about markdown syntax.
+
+### GitHub Workflow
+[Click here](https://guides.github.com/introduction/flow/) to see the resource used in class about the GitHub Workflow.
