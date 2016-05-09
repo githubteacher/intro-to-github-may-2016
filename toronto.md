@@ -1,7 +1,7 @@
 #Toronto, On
 
 ### Where to eat
-King Street West, Spice Route, Citzien, CiBO (prounced chibo), keg
+King Street West, Spice Route, Citzin, CiBO (prounced chibo), keg
 ### What to do
 
 
